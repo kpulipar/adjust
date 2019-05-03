@@ -1,3 +1,5 @@
+#this script to print random numbers from 1 to 10 on terminal
+
 #! /bin/bash
 
 i=0; 
