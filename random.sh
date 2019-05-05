@@ -1,4 +1,6 @@
-#this script to print random numbers from 1 to 10 on terminal
+#this script is to print random numbers from 1 to 10 on terminal
+# Usage : sh random.sh 1 10
+# Range starts from 1 and ends at 10
 
 #! /bin/bash
 
