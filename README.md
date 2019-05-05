@@ -32,9 +32,12 @@ Result:
         6
   ```
 # Run on MacOS 
-I am using Windows OS,i do have the environment to test above bash script on MacOS so written python command. I tried to launch GCP MacOS instance from my GCP account but GCP marketplace is not having MacOS image.Below command will work on both Linux and MacOS. 
+I am using Windows OS,i do have the environment to test above bash script on MacOS so written python command. I tried to launch GCP MacOS instance from my GCP account but GCP marketplace is not having MacOS image.Below command will work on both Linux and MacOS.
+ 
 **Requirement**:
-    Python 2.7 is required for executing this single line on MacOS terminal.
+
+Python 2.7 is required for executing this single line on MacOS terminal.
+
 
 **Run**
 
